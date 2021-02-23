@@ -1,0 +1,16 @@
+/home/luke/codeready-workspaces/test/codeready-test-e2e/src/test/java/com/redhat/codeready/selenium/workspaces/ProjectStateAfterRefreshTest.java
+/home/luke/codeready-workspaces/test/codeready-test-e2e/src/test/java/com/redhat/codeready/selenium/dashboard/AccountTest.java
+/home/luke/codeready-workspaces/test/codeready-test-e2e/src/test/java/com/redhat/codeready/selenium/factory/DirectUrlFactoryWithSpecificBranchTest.java
+/home/luke/codeready-workspaces/test/codeready-test-e2e/src/test/java/com/redhat/codeready/selenium/dashboard/workspaces/WorkspacesListTest.java
+/home/luke/codeready-workspaces/test/codeready-test-e2e/src/test/java/com/redhat/codeready/selenium/workspaces/ProjectStateAfterRenameWorkspaceTest.java
+/home/luke/codeready-workspaces/test/codeready-test-e2e/src/test/java/com/redhat/codeready/selenium/dashboard/DeleteStoppingWorkspaceTest.java
+/home/luke/codeready-workspaces/test/codeready-test-e2e/src/test/java/com/redhat/codeready/selenium/rolling/RollingUpdateStrategyWithStartedWorkspaceTest.java
+/home/luke/codeready-workspaces/test/codeready-test-e2e/src/test/java/com/redhat/codeready/selenium/dashboard/DeleteRunningWorkspaceTest.java
+/home/luke/codeready-workspaces/test/codeready-test-e2e/src/test/java/com/redhat/codeready/selenium/ocpoauth/LoginNewUserWithOpenShiftOAuthTest.java
+/home/luke/codeready-workspaces/test/codeready-test-e2e/src/test/java/com/redhat/codeready/selenium/dashboard/workspaces/details/WorkspaceDetailsOverviewTest.java
+/home/luke/codeready-workspaces/test/codeready-test-e2e/src/test/java/com/redhat/codeready/selenium/factory/DirectUrlFactoryWithKeepDirectoryTest.java
+/home/luke/codeready-workspaces/test/codeready-test-e2e/src/test/java/com/redhat/codeready/selenium/rolling/RollingUpdateStrategyWithWorkspacesStartStopTest.java
+/home/luke/codeready-workspaces/test/codeready-test-e2e/src/test/java/com/redhat/codeready/selenium/factory/DirectUrlFactoryWithRootFolderTest.java
+/home/luke/codeready-workspaces/test/codeready-test-e2e/src/test/java/com/redhat/codeready/selenium/workspaces/CheckStoppingWsByTimeoutTest.java
+/home/luke/codeready-workspaces/test/codeready-test-e2e/src/test/java/com/redhat/codeready/selenium/ocpoauth/LoginExistedUserWithOpenShiftOAuthTest.java
+/home/luke/codeready-workspaces/test/codeready-test-e2e/src/test/java/com/redhat/codeready/selenium/factory/CreateFactoryFromDevfileUrl.java

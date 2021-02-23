@@ -1,0 +1,17 @@
+com/redhat/codeready/selenium/workspaces/ProjectStateAfterRenameWorkspaceTest.class
+com/redhat/codeready/selenium/factory/CreateFactoryFromDevfileUrl.class
+com/redhat/codeready/selenium/dashboard/DeleteStoppingWorkspaceTest.class
+com/redhat/codeready/selenium/ocpoauth/LoginExistedUserWithOpenShiftOAuthTest$1.class
+com/redhat/codeready/selenium/dashboard/AccountTest.class
+com/redhat/codeready/selenium/factory/DirectUrlFactoryWithSpecificBranchTest.class
+com/redhat/codeready/selenium/dashboard/DeleteRunningWorkspaceTest.class
+com/redhat/codeready/selenium/rolling/RollingUpdateStrategyWithStartedWorkspaceTest.class
+com/redhat/codeready/selenium/ocpoauth/LoginExistedUserWithOpenShiftOAuthTest.class
+com/redhat/codeready/selenium/factory/DirectUrlFactoryWithKeepDirectoryTest.class
+com/redhat/codeready/selenium/dashboard/workspaces/WorkspacesListTest.class
+com/redhat/codeready/selenium/ocpoauth/LoginNewUserWithOpenShiftOAuthTest.class
+com/redhat/codeready/selenium/dashboard/workspaces/details/WorkspaceDetailsOverviewTest.class
+com/redhat/codeready/selenium/factory/DirectUrlFactoryWithRootFolderTest.class
+com/redhat/codeready/selenium/workspaces/ProjectStateAfterRefreshTest.class
+com/redhat/codeready/selenium/workspaces/CheckStoppingWsByTimeoutTest.class
+com/redhat/codeready/selenium/rolling/RollingUpdateStrategyWithWorkspacesStartStopTest.class

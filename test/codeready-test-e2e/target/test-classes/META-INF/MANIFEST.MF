@@ -1,0 +1,18 @@
+Manifest-Version: 1.0
+Created-By: Apache Maven 3.6.3
+Built-By: root
+Build-Jdk: 11.0.9.1
+Implementation-Vendor-Id: org.eclipse.che.selenium
+Date: 18.01.21 23:37
+Implementation-Title: Che Legacy E2E :: Test
+Implementation-URL: https://codenvy.com/che-server/tests/che-selenium-pa
+ rent/che-selenium-test
+Implementation-Vendor: Red Hat, Inc.
+Implementation-Version: 7.24.2
+SCM-Revision: 5bd3aaf3358404818d8f5c3d7787cc682f2932a3
+SCM-URL: scm:git:git@github.com:eclipse/che.git/tests/che-selenium-paren
+ t/che-selenium-test
+Specification-Title: Che Legacy E2E :: Test
+Specification-Vendor: Red Hat, Inc.
+Specification-Version: 1.0-beta2
+

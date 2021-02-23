@@ -1,0 +1,16 @@
+com/redhat/codeready/selenium/pageobject/account/CodereadyKeycloakHeaderButtons$Button.class
+com/redhat/codeready/selenium/pageobject/CodereadyOpenShiftLoginPage$Locators.class
+com/redhat/codeready/selenium/pageobject/site/CodereadyLoginPage.class
+com/redhat/codeready/selenium/core/provider/TestStackAddressReplacementProvider.class
+com/redhat/codeready/selenium/pageobject/account/CodeReadyKeycloakFederatedIdentitiesPage.class
+com/redhat/codeready/selenium/pageobject/account/CodereadyKeycloakHeaderButtons.class
+com/redhat/codeready/selenium/pageobject/account/CodeReadyKeycloakFederatedIdentitiesPage$Locators.class
+com/redhat/codeready/selenium/core/CodereadySeleniumSuiteModule.class
+com/redhat/codeready/selenium/pageobject/dashboard/CodereadyCreateWorkspaceHelper.class
+com/redhat/codeready/selenium/core/client/keycloak/cli/CodeReadyOpenShiftKeycloakCliCommandExecutor.class
+com/redhat/codeready/selenium/core/provider/TestStackAddressReplacementProvider$1.class
+com/redhat/codeready/selenium/pageobject/site/CodereadyLoginPage$Locators.class
+com/redhat/codeready/selenium/pageobject/dashboard/CodereadyDashboard.class
+com/redhat/codeready/selenium/core/CodereadySeleniumTestHandler.class
+com/redhat/codeready/selenium/pageobject/CodereadyOpenShiftLoginPage.class
+com/redhat/codeready/selenium/core/executor/hotupdate/CodeReadyHotUpdateUtil.class

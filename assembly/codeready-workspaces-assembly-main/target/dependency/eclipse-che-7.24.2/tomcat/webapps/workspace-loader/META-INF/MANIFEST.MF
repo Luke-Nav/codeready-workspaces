@@ -1,0 +1,18 @@
+Manifest-Version: 1.0
+Created-By: Apache Maven 3.6.3
+Built-By: root
+Build-Jdk: 11.0.9.1
+Implementation-Vendor-Id: org.eclipse.che
+Date: 18.01.21 23:37
+Implementation-Title: Che Assembly :: Workspace Loader war
+Implementation-URL: https://codenvy.com/che-server/che-assembly-parent/a
+ ssembly-workspace-loader-war
+Implementation-Vendor: Red Hat, Inc.
+Implementation-Version: 7.24.2
+SCM-Revision: 5bd3aaf3358404818d8f5c3d7787cc682f2932a3
+SCM-URL: scm:git:git@github.com:eclipse/che.git/che-assembly-parent/asse
+ mbly-workspace-loader-war
+Specification-Title: Che Assembly :: Workspace Loader war
+Specification-Vendor: Red Hat, Inc.
+Specification-Version: 7.0
+

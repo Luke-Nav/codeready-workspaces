@@ -1,0 +1,11 @@
+/home/luke/codeready-workspaces/test/codeready-test-e2e/src/main/java/com/redhat/codeready/selenium/core/CodereadySeleniumTestHandler.java
+/home/luke/codeready-workspaces/test/codeready-test-e2e/src/main/java/com/redhat/codeready/selenium/core/executor/hotupdate/CodeReadyHotUpdateUtil.java
+/home/luke/codeready-workspaces/test/codeready-test-e2e/src/main/java/com/redhat/codeready/selenium/core/client/keycloak/cli/CodeReadyOpenShiftKeycloakCliCommandExecutor.java
+/home/luke/codeready-workspaces/test/codeready-test-e2e/src/main/java/com/redhat/codeready/selenium/core/CodereadySeleniumSuiteModule.java
+/home/luke/codeready-workspaces/test/codeready-test-e2e/src/main/java/com/redhat/codeready/selenium/pageobject/site/CodereadyLoginPage.java
+/home/luke/codeready-workspaces/test/codeready-test-e2e/src/main/java/com/redhat/codeready/selenium/pageobject/account/CodereadyKeycloakHeaderButtons.java
+/home/luke/codeready-workspaces/test/codeready-test-e2e/src/main/java/com/redhat/codeready/selenium/pageobject/account/CodeReadyKeycloakFederatedIdentitiesPage.java
+/home/luke/codeready-workspaces/test/codeready-test-e2e/src/main/java/com/redhat/codeready/selenium/pageobject/dashboard/CodereadyDashboard.java
+/home/luke/codeready-workspaces/test/codeready-test-e2e/src/main/java/com/redhat/codeready/selenium/pageobject/CodereadyOpenShiftLoginPage.java
+/home/luke/codeready-workspaces/test/codeready-test-e2e/src/main/java/com/redhat/codeready/selenium/pageobject/dashboard/CodereadyCreateWorkspaceHelper.java
+/home/luke/codeready-workspaces/test/codeready-test-e2e/src/main/java/com/redhat/codeready/selenium/core/provider/TestStackAddressReplacementProvider.java

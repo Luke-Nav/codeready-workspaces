@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<project name="maven-antrun-" default="main"  >
+<target name="main">
+  <chmod file="/home/luke/codeready-workspaces/test/codeready-test-e2e/target/bin/webdriver.sh" perm="+x"/>
+</target>
+</project>
